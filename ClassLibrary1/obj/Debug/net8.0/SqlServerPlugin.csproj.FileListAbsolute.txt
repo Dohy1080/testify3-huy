@@ -1,0 +1,17 @@
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\bin\Debug\net8.0\SqlServerPlugin.deps.json
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\bin\Debug\net8.0\SqlServerPlugin.dll
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\bin\Debug\net8.0\SqlServerPlugin.pdb
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\bin\Debug\net8.0\BusinessLogic.dll
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\bin\Debug\net8.0\CoreEntities.dll
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\bin\Debug\net8.0\BusinessLogic.pdb
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\bin\Debug\net8.0\CoreEntities.pdb
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\obj\Debug\net8.0\SqlServerPlugin.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\obj\Debug\net8.0\SqlServerPlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\obj\Debug\net8.0\SqlServerPlugin.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\obj\Debug\net8.0\SqlServerPlugin.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\obj\Debug\net8.0\SqlServerPlugin.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\obj\Debug\net8.0\SqlServe.96495DCD.Up2Date
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\obj\Debug\net8.0\SqlServerPlugin.dll
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\obj\Debug\net8.0\refint\SqlServerPlugin.dll
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\obj\Debug\net8.0\SqlServerPlugin.pdb
+C:\Users\ADMIN\source\repos\testify3\ClassLibrary1\obj\Debug\net8.0\ref\SqlServerPlugin.dll
