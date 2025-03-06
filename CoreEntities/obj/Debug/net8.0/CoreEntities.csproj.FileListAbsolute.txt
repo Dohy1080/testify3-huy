@@ -1,0 +1,12 @@
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\bin\Debug\net8.0\CoreEntities.deps.json
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\bin\Debug\net8.0\CoreEntities.dll
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\bin\Debug\net8.0\CoreEntities.pdb
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\obj\Debug\net8.0\CoreEntities.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\obj\Debug\net8.0\CoreEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\obj\Debug\net8.0\CoreEntities.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\obj\Debug\net8.0\CoreEntities.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\obj\Debug\net8.0\CoreEntities.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\obj\Debug\net8.0\CoreEntities.dll
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\obj\Debug\net8.0\refint\CoreEntities.dll
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\obj\Debug\net8.0\CoreEntities.pdb
+C:\Users\ADMIN\source\repos\testify3\CoreEntities\obj\Debug\net8.0\ref\CoreEntities.dll
